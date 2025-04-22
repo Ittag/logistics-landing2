@@ -523,7 +523,7 @@ export default function LandingPage() {
                 <div className="rounded-md bg-red-600 p-1">
                   <Package className="h-5 w-5 text-white" />
                 </div>
-                <h3 className="text-lg font-bold">Viji Parcel Service Pvt Ltd.</h3>
+                <h3 className="text-lg font-bold">ARC Parcel Service Pvt Ltd.</h3>
               </div>
               <p className="text-sm text-gray-400">
                 Revolutionizing logistics across India with cutting-edge technology and nationwide network.
